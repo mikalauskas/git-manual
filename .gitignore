@@ -1,1 +1,3 @@
 docs/skillfactory.md
+*.code-workspace
+.editorconfig
